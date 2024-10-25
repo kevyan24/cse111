@@ -1,0 +1,33 @@
+Rock, Paper, Scissors, Lizard, Spock Game
+
+Problem Description
+The traditional Rock, Paper, Scissors game has a fundamental limitation: with only three possible options, there is a high probability of ties (33.33%), and strategies become predictable quickly. This problem was recognized by Sam Kass and Karen Bryla, who created an expanded version that includes two additional options: Lizard and Spock. This version of the game reduces the probability of ties to 20% and adds strategic complexity, making the game more interesting and less predictable. Our program will implement this improved version, allowing users to play against the computer in an interactive and educational manner.
+
+Learning Objectives
+Implement complex conditional logic to handle multiple win/lose cases
+Develop a robust user input validation system
+Create a user-friendly console interface
+Implement a scoring and statistics system
+Practice error and exception handling in Python
+
+Modules Used
+random: For random selection of computer moves
+sys: For program output handling
+time: For adding dramatic pauses in the game
+unittest: For implementing unit tests
+
+Function Names
+get_player_choice(): Gets and validates the player's choice
+get_computer_choice(): Generates computer's random choice
+determine_winner(player_choice, computer_choice): Determines the round winner
+display_rules(): Shows game rules
+play_game(): Main function that runs the game
+update_score(winner): Updates the scoreboard
+display_statistics(): Shows game statistics
+
+Test Function Names
+test_valid_choices(): Tests input validation
+test_winner_determination(): Tests winner determination logic
+test_score_updating(): Tests the scoring system
+test_computer_choice_range(): Verifies computer choices are valid
+test_game_rules(): Verifies game rules are correctly applied
