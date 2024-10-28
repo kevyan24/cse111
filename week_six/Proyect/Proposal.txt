@@ -12,17 +12,18 @@ Practice error and exception handling in Python
 
 Modules Used
 random: For random selection of computer moves
-sys: For program output handling
 time: For adding dramatic pauses in the game
 unittest: For implementing unit tests
 
 Function Names
+typewriter(text, delay) 
+play_game(): Main function that runs the game
 get_player_choice(): Gets and validates the player's choice
 get_computer_choice(): Generates computer's random choice
 determine_winner(player_choice, computer_choice): Determines the round winner
 display_rules(): Shows game rules
-play_game(): Main function that runs the game
 update_score(winner): Updates the scoreboard
+resert_score_for_game(): Updates the scoreboard
 display_statistics(): Shows game statistics
 
 Test Function Names
