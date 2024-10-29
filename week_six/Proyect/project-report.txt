@@ -13,15 +13,20 @@ description of the work that you did on your project. Follow the example that is
     f. debugging your code
     g. any other activity that helped you complete your project
 
-=============Example====================
             Time Spent
    Date       (hours)   Description of Work
 ----------  ----------  -------------------------
-2021-12-03      2.5     Wrote two program functions and two test functions
-2021-12-03      .5      Watched video on 
-=============Example====================
-
-
+2024-10-26      2       Writing experimental code
+2024-10-26      1       Watching applicable videos
+2024-10-26      2       Writing program functions
+2024-10-27      0.5     Debugging your code
+2024-10-27      1       Writing test functions
+2024-10-28      0.5     Reading articles
+2024-10-28      1.5     Writing program functions
+2024-10-28      2       Writing test functions
+2024-10-28      0.5     Debugging your code
+2024-10-29      1       Writing program functions
+2024-10-28      0.5     Debugging your code
 
 2. In Canvas, submit this completed text file, your Python program, your
 Python test file, and any project data files such as .txt and .csv files and link to video walkthrough if needed.
